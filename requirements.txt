@@ -3,6 +3,6 @@ pyrogram
 Dnspython
 pyromod
 umongo==2.3.0
-motor==2.30
+motor==2.3.0
 pytz
 asyncio
